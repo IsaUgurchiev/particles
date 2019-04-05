@@ -9,6 +9,7 @@ body{
 			height: 100vh;
 		}
 		input{
+			display: none;
 			width: 250px;
 			height: 40px;
 			line-height: 40px;
@@ -23,7 +24,3 @@ body{
 			border: 1px solid white;
 			background: rgba(255,255,255,0.2);
 		}
-p{
-
-  display:none;
-}
